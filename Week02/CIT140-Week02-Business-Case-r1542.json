@@ -1,0 +1,129 @@
+{
+  "format": "command-nexus-weekly-report",
+  "schemaVersion": 1,
+  "courseId": "CIT140",
+  "week": 2,
+  "assignmentId": "CIT140-W02-BUSINESS-CASE",
+  "artifactType": "business-case-recommendation",
+  "caseId": "meridian-forge",
+  "reportId": "1f2006b1-0090-4f46-984b-97c3905ddfba",
+  "revision": 1542,
+  "createdAt": "2026-09-27T20:22:44.269Z",
+  "exportedAt": "2026-09-27T22:56:37.317Z",
+  "learnerLabel": "Incident assessment",
+  "contentStatus": "complete-fields",
+  "sections": [
+    {
+      "id": "project",
+      "title": "Proposed project",
+      "value": "How retired tests remain controlled"
+    },
+    {
+      "id": "need",
+      "title": "Business need",
+      "value": "Owner identification and assignment"
+    },
+    {
+      "id": "value",
+      "title": "Expected value and beneficiaries",
+      "value": "All departments currently affected by issue"
+    },
+    {
+      "id": "scopeIn",
+      "title": "Included work",
+      "value": "Identify owners, a way to track the implementation and retirement of tests, and a record of log/test owners."
+    },
+    {
+      "id": "scopeOut",
+      "title": "Excluded work",
+      "value": "Altering original documents/ records, unauthorized restarts, or changes to software"
+    },
+    {
+      "id": "technical",
+      "title": "Technical feasibility",
+      "value": "If access and staff hours are approved then tools and exports can support review."
+    },
+    {
+      "id": "operational",
+      "title": "Operational feasibility",
+      "value": "QA and engineering staff need to confirm availability. "
+    },
+    {
+      "id": "resources",
+      "title": "Cost and resource feasibility",
+      "value": "Unforeseen slowdowns that could raise costs."
+    },
+    {
+      "id": "schedule",
+      "title": "Schedule feasibility",
+      "value": "eight-day-business-day plan is if all aspects align by their proposed time. It assumes \"the exports arrive by day 3 and the review tasks can overlap\""
+    },
+    {
+      "id": "constraints",
+      "title": "Known constraints",
+      "value": "Budget: $3000\nSchedule: 8 Business days\nAccess: None thus far\nSafety Limits: No unauthorized restarts allowed"
+    },
+    {
+      "id": "risks",
+      "title": "Risks and assumptions",
+      "value": "late export\nAccess is not granted within the first three days\n"
+    },
+    {
+      "id": "success",
+      "title": "Success measures and evidence",
+      "value": "Results of findings of all 6 occurrences and cost to complete task."
+    },
+    {
+      "id": "recommendation",
+      "title": "Recommendation",
+      "value": "proceed"
+    },
+    {
+      "id": "rationale",
+      "title": "Rationale and conditions",
+      "value": "Two of six tests ownership and cause have been found. Read-Only use of reports ensures precautions, proper documentation can ensure staff is up-to-date on resolution when work on issue starts for them again."
+    },
+    {
+      "id": "nextStep",
+      "title": "Next authorization or information step",
+      "value": "Information relevant to project completion should be given to staff working on issue, Sponsor should be given progress reports going over issues being faced and current state and progress of project."
+    }
+  ],
+  "sources": [
+    {
+      "id": "W02-S01",
+      "title": "Request for a bounded review",
+      "locator": "Week 2 decision packet · W02-S01"
+    },
+    {
+      "id": "W02-S02",
+      "title": "Evidence-retrieval workload",
+      "locator": "Week 2 decision packet · W02-S02"
+    },
+    {
+      "id": "W02-S03",
+      "title": "Proposed scope and current workflow",
+      "locator": "Week 2 decision packet · W02-S03"
+    },
+    {
+      "id": "W02-S04",
+      "title": "Capacity, access and operating limits",
+      "locator": "Week 2 decision packet · W02-S04"
+    },
+    {
+      "id": "W02-S05",
+      "title": "Estimate and success-measure sheet",
+      "locator": "Week 2 decision packet · W02-S05"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "repository-check",
+      "filename": "Week02_Repository_Check.png",
+      "kind": "supporting-evidence",
+      "caption": "Required Week 2 repository screenshot; supply the actual file separately. This reference does not verify an upload.",
+      "sourceIds": []
+    }
+  ],
+  "relatedReportIds": []
+}
