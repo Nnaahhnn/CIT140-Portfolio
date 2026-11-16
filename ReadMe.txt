@@ -10,4 +10,4 @@ Week 6 - CIT140-Portfolio/Week06/Artifact/Esparza_Hernan_CIT140_Week06.pdf
 
 Week 7 - CIT140-Portfolio/Week07/Artifact/Esparza_Hernan_CIT140_Week07.pdf
 
-Week 8 - CIT140-Portfolio/Week08/Artifact/Esparza_Hernan_CIT140
+Week 8 - CIT140-Portfolio/Week08/Artifact/Esparza_Hernan_CIT140_Portfolio_Review.pdf
